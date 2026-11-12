@@ -4,12 +4,11 @@
 <h1 align="center">Hi 👋, I'm Divya Shree M</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | AI & Software Development
+Aspiring AI Engineer | Computer Science Engineering Student
 </h3>
 
 <p align="center">
-  Building practical applications, exploring Artificial Intelligence,
-  and continuously growing as a developer.
+ Python • Java • C • AI/ML • Software Development
 </p>
 
 <p align="center">
